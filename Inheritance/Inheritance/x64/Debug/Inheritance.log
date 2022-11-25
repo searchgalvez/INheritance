@@ -1,0 +1,11 @@
+﻿  Inheritance.cpp
+C:\Users\Sergio\Desktop\program\Inheritance\Inheritance\Inheritance.cpp(24,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sergio\Desktop\program\Inheritance\Inheritance\Inheritance.cpp(28,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sergio\Desktop\program\Inheritance\Inheritance\Inheritance.cpp(32,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sergio\Desktop\program\Inheritance\Inheritance\Inheritance.cpp(71,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sergio\Desktop\program\Inheritance\Inheritance\Inheritance.cpp(80,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sergio\Desktop\program\Inheritance\Inheritance\Inheritance.cpp(89,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sergio\Desktop\program\Inheritance\Inheritance\Inheritance.cpp(115,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sergio\Desktop\program\Inheritance\Inheritance\Inheritance.cpp(124,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sergio\Desktop\program\Inheritance\Inheritance\Inheritance.cpp(133,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Inheritance.vcxproj -> C:\Users\Sergio\Desktop\program\Inheritance\x64\Debug\Inheritance.exe
